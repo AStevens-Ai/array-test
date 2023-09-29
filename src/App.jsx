@@ -80,6 +80,7 @@ function App() {
     <br />
     <button onClick ={() => addLetterToStart(value)}>Add Value To Start</button>
     <br />
+    <br />
     {array.join(", ")}
     </div>
 }
